@@ -1,4 +1,6 @@
 /***************************   WhatsApp Chat Analyzer   *****************************/
+
+
 A WhatsApp Chat Analyzer is a tool that can analyze and visualize WhatsApp chat data, including individual and group chats. It can provide insights into a chat's history, such as: 
 Message count: The number of messages in the chat 
 Word count: The total number of words in the chat 
